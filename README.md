@@ -2,7 +2,7 @@
 Hello, and welcome to my portfolio. This is a summary of the projects I have worked on.
 
 ## Contents
-- [Power BI](#powerbi)
+- [Power BI](#power-bi)
 - [SQL](#sql)
 - [Python](#python)
 
