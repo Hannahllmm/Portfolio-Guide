@@ -21,3 +21,4 @@ Hello, and welcome to my portfolio. This is a summary of the projects I have wor
 ## Python
 | Project | Date | Libraries and Tools | Description |
 |---|---|---|---|
+|[US Bikeshare Data](https://github.com/Hannahllmm/Programming-with-Python/tree/cc73e4f0eacf1f2d493f24cb4921bb3e1cbe0431/Project%202%3A%20US%20Bikeshare%20Data)| November 2021 (Updated May 2023) |Atom, Git Bash, Pandas, NumPy| In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. I wrote code to import the data and answer interesting questions about it by computing descriptive statistics. I wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.|
