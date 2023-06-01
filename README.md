@@ -19,5 +19,5 @@ Hello, and welcome to my portfolio. This is a summary of the projects I have wor
 | [Danny's Diner](https://github.com/Hannahllmm/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231:%20Danny's%20Diner) | April 2023 | SQL | I investigated a database related to a diner and answered questions related to a membership scheme. This was part of Danny Ma's 8 week SQL challenge. |
 
 ## Python
-| Project | Date | Tools | Description |
+| Project | Date | Libraries and Tools | Description |
 |---|---|---|---|
