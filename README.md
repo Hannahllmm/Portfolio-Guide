@@ -17,6 +17,7 @@ Hello, and welcome to my portfolio. This is a summary of the projects I have wor
 |---|---|---|---|
 | [DVD Rentals](https://github.com/Hannahllmm/DVD-Rental-Database) | November 2021 | SQL, Power BI | This was the first project as part of the Programming for Data Science Nanaodegree with Udacity. I investigated a database related to DVD rentals. I wrote SQL code to run SQL queries to answer questions about the database. I then used Power BI to visualise that data. |
 | [Danny's Diner](https://github.com/Hannahllmm/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231:%20Danny's%20Diner) | April 2023 | SQL | I investigated a database related to a diner and answered questions related to a membership scheme. This was part of Danny Ma's 8 week SQL challenge. |
+| [Pizza Runner](https://github.com/Hannahllmm/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%3A%20Pizza%20Runner) | June 2023 | SQL | I investigated a database related to a pizza delivery, cleaning the data and answering questions. This was part of Danny Ma's 8 week SQL challenge. |
 
 ## Python
 | Project | Date | Libraries and Tools | Description |
