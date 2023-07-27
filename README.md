@@ -16,6 +16,7 @@ Hello, and welcome to my portfolio. This is a summary of the projects I have wor
 | Project | Date | Tools | Description |
 |---|---|---|---|
 | [DVD Rentals](https://github.com/Hannahllmm/DVD-Rental-Database) | November 2021 | SQL, Power BI | This was the first project as part of the Programming for Data Science Nanaodegree with Udacity. I investigated a database related to DVD rentals. I wrote SQL code to run SQL queries to answer questions about the database. I then used Power BI to visualise that data. |
+| [Temperature Analysis](https://github.com/Hannahllmm/Data-Analyst-Nanodegree/tree/main/Project%201) | May 2022 (Updated July 2023) | Power BI, SQL | This was an introduciton project to the Data Analyst Nanodehree where I explored weather data from London against global data.|
 | [Danny's Diner](https://github.com/Hannahllmm/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231:%20Danny's%20Diner) | April 2023 | SQL | I investigated a database related to a diner and answered questions related to a membership scheme. This was part of Danny Ma's 8 week SQL challenge. |
 | [Pizza Runner](https://github.com/Hannahllmm/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%3A%20Pizza%20Runner) | June 2023 | SQL | I investigated a database related to a pizza delivery, cleaning the data and answering questions. This was part of Danny Ma's 8 week SQL challenge. |
 
@@ -23,3 +24,6 @@ Hello, and welcome to my portfolio. This is a summary of the projects I have wor
 | Project | Date | Libraries and Tools | Description |
 |---|---|---|---|
 |[US Bikeshare Data](https://github.com/Hannahllmm/Programming-with-Python/tree/cc73e4f0eacf1f2d493f24cb4921bb3e1cbe0431/Project%202%3A%20US%20Bikeshare%20Data)| November 2021 (Updated May 2023) |Atom, Git Bash, Pandas, NumPy| In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. I wrote code to import the data and answer interesting questions about it by computing descriptive statistics. I wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.|
+| [Investigate a Dataset](https://github.com/Hannahllmm/Data-Analyst-Nanodegree/tree/main/Project%202)  | May 2022 (Updated July 2023) | NumPy, Pandas, Matplotlib | In this project, I analysed a dataset from Gapminder about countries overall "happiness" ratings and communicated those findings.|
+| [Analyse A/B Test Results](https://github.com/Hannahllmm/Data-Analyst-Nanodegree/tree/main/Project%203)  | May 2022 (Updated July 2023) | NumPy, Pandas, Matplotlib |For this project, I worked to understand the results of an A/B test run by an e-commerce website.|
+
