@@ -19,6 +19,8 @@ Hello, and welcome to my portfolio. This is a summary of the projects I have wor
 | [Temperature Analysis](https://github.com/Hannahllmm/Data-Analyst-Nanodegree/tree/main/Project%201) | May 2022 (Updated July 2023) | Power BI, SQL | This was an introduciton project to the Data Analyst Nanodehree where I explored weather data from London against global data.|
 | [Danny's Diner](https://github.com/Hannahllmm/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231:%20Danny's%20Diner) | April 2023 | SQL | I investigated a database related to a diner and answered questions related to a membership scheme. This was part of Danny Ma's 8 week SQL challenge. |
 | [Pizza Runner](https://github.com/Hannahllmm/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%3A%20Pizza%20Runner) | June 2023 | SQL | I investigated a database related to a pizza delivery, cleaning the data and answering questions. This was part of Danny Ma's 8 week SQL challenge. |
+| [Foodie-Fi](https://github.com/Hannahllmm/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%3A%20Foodie-Fi) | April 2024 | SQL | I investigated a database related to a food content subscription service, answering quesitons about the users subscription journey. This was part of Danny Ma's 8 week SQL challenge. |
+
 
 ## Python
 | Project | Date | Libraries and Tools | Description |
